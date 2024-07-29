@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashutosh095
 - 👀 I’m interested in new Technologies.
-- 🌱 I’m currently learning Java,Mean stack Mern stack Technologies.
+- 🌱 I’m currently learning Java, Mern stack  Technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
